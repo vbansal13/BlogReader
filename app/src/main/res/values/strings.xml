@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_list">No items to display</string>
+    <string name="error_dialog_title">"Sorry!"</string>
+    <string name="error_dialog_message">"Could not download blod data!"</string>
+    <string name="action_share">"Share"</string>
+    <string-array name="listItems">
+        <item>Varun1</item>
+        <item>Varun2</item>
+        <item>Varun3</item>
+        <item>Varun4</item>
+        <item>Varun5</item>
+        <item>Varun6</item>
+        <item>Varun7</item>
+        <item>Varun8</item>
+        <item>Varun9</item>
+        <item>Varun10</item>
+        <item>Varun11</item>
+        <item>Varun12</item>
+        <item>Varun13</item>
+        <item>Varun14</item>
+        <item>Varun15</item>
+    </string-array>
+
+    <string name="title_activity_blog_detail">Blog Post</string>
+    <string name="share_window_title">How do you want share it?</string>
+
+</resources>
